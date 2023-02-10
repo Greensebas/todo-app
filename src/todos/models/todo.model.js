@@ -3,7 +3,7 @@ import { v4 as uuid } from 'uuid';
 export class Todo {
 
     /**
-     * 
+     * This function creates a todo
      * @param {String} description 
      */
     constructor( description ){
