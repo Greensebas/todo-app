@@ -9,11 +9,12 @@ export const Filters = {
 
 const state = {
     todos: [
-        new Todo('Piedra del alma'),
-        new Todo('Piedra del tiempo'),
-        new Todo('Piedra del poder'),
-        new Todo('Piedra del espacio'),
-        new Todo('Piedra de la realidad'),
+        new Todo('Gema del alma'),
+        new Todo('Gema del tiempo'),
+        new Todo('Gema del poder'),
+        new Todo('Gema del espacio'),
+        new Todo('Gema de la realidad'),
+        new Todo('Gema de la mente'),
     ],
     filter: Filters.All,
 };
