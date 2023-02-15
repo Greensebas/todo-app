@@ -242,7 +242,7 @@ body {
 }
 
 .todo-list li .destroy:after {
-	content: 'X';
+	content: 'x';
 	cursor: pointer;
 }
 
