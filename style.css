@@ -380,6 +380,11 @@ html .clear-completed:active {
 	}
 }
 
+@media (max-width: 920px) {
+	.todo-list li .destroy {
+		display: block;
+	}
+}
 
 hr {
 	margin: 20px 0;
